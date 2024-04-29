@@ -1,1 +1,1 @@
-This is personal project to introduce about myself.
+This is personal project to introduce myself.
