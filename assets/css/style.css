@@ -1,0 +1,12 @@
+/*
+    Style css 
+*/
+
+
+.light-theme {
+    /* 
+        Light theme colors.
+    */
+    --background-primary: hsl(0, 0%, 100%);
+    --background-secondary: hsl(0, 0%, 79%);
+}
