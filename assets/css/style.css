@@ -157,7 +157,7 @@ html {
 /* #REUSED STYLE */
 
 .container {
-    margin-line: auto;
+    margin-inline: auto;
     margin: auto;
     /* fallback for margin-inline*/
     padding: 0 15px;
