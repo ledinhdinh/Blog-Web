@@ -409,8 +409,8 @@ header .btn-group {
 }
 
 .blog-topic {
-    background-color: var(--action-secondary);
-    color: var(--background-secondary);
+    background: var(--action-secondary);
+    color: var(--foreground-secondary);
     font-weight: 600;
     padding: 0.25rem 1rem;
     border-radius: 5px;
@@ -760,6 +760,8 @@ footer .wrapper {
     /* #HERO */
     .hero {
         text-align: left;
+        background-image: url(../images/background-hero3.jpg);
+        background-size: 100%;
     }
 
     .hero .container {
